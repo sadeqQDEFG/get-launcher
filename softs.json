@@ -4,7 +4,7 @@
         "size": "12.4 MB",
         "url": "https://drive.google.com/uc?export=download&id=1eH02LU8XLxBeimhB4N8oVUvWWIIrBkLz",
         "icon": "⚡",
-        "desc": "Мощный чит-клиент для Minecraft с широким набором модулей для игры на любых серверах. Поддерживает все популярные версии от 1.8.9 до 1.21.",
+        "desc": "Мощный чит-клиент для Minecraft с широким набором модулей для игры на любых серверах. Поддерживает версии  1.21.4 для его установки нужен fabric-api-0.119.4+1.21.4 .",
         "features": [
             "KillAura, Scaffold, Fly, ESP",
             "Обход NCP / Grim / Vulcan",
@@ -17,7 +17,7 @@
         "size": "28.2 MB",
         "url": "https://drive.google.com/uc?export=download&id=1W6VuBlhQFgJ9re5W7SgYLeE10e47wwm0",
         "icon": "🐺",
-        "desc": "Агрессивный клиент с упором на PvP. Множество модулей для кристаллов, авто-ловли и обхода античитов.",
+        "desc": "Агрессивный клиент с упором на PvP. Множество модулей для кристаллов, авто-ловли и обхода античитов для его устаноки нужен fabric-api-0.136.1+1.21.8.",
         "features": [
             "CrystalAura с кастомизацией",
             "AutoTotem и AutoGap",
