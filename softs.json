@@ -1,10 +1,10 @@
 [
     {
         "title": "Essence-fabric",
-        "size": "12.4 MB",
+        "size": "28.5 MB",
         "url": "https://drive.google.com/uc?export=download&id=1eH02LU8XLxBeimhB4N8oVUvWWIIrBkLz",
         "icon": "⚡",
-        "desc": "Мощный чит-клиент для Minecraft с широким набором модулей для игры на любых серверах. Поддерживает версии  1.21.4 для его установки нужен fabric-api-0.119.4+1.21.4 .",
+        "desc": "Мощный чит-клиент для Minecraft с широким набором модулей для игры на любых серверах. Поддерживает версии 1.21.4 для его установки нужен fabric-api-0.119.4+1.21.4.",
         "features": [
             "KillAura, Scaffold, Fly, ESP",
             "Обход NCP / Grim / Vulcan",
@@ -14,15 +14,29 @@
     },
     {
         "title": "Wild Client",
-        "size": "28.2 MB",
+        "size": "50.7 MB",
         "url": "https://drive.google.com/uc?export=download&id=1W6VuBlhQFgJ9re5W7SgYLeE10e47wwm0",
         "icon": "🐺",
-        "desc": "Агрессивный клиент с упором на PvP. Множество модулей для кристаллов, авто-ловли и обхода античитов для его устаноки нужен fabric-api-0.136.1+1.21.8.",
+        "desc": "Агрессивный клиент с упором на PvP. Множество модулей для кристаллов, авто-ловли и обхода античитов для его установки нужен fabric-api-0.136.1+1.21.8.",
         "features": [
             "CrystalAura с кастомизацией",
             "AutoTotem и AutoGap",
             "Обход Verus и Polar"
         ],
         "version": "1.12.2 – 1.21"
+    },
+    {
+        "title": "ExpensiveClient",
+        "size": "22.1 MB",
+        "url": "https://drive.google.com/file/d/1A3HxxkzHox6FZLir4udi-cMfdXZNItpZ/view?usp=sharing",
+        "icon": "🔥",
+        "desc": "ExpensiveClient — это премиальный чит-клиент для Minecraft, ориентированный на профессиональную игру на самых сложных серверах с продвинутыми античитами. Клиент написан с упором на производительность и скрытность, что делает его идеальным выбором для тех, кто ценит качество и надёжность
+        что бы скачать этот чит нужен fabric-api-0.119.4+1.21.4. ..",
+        "features": [
+            "Фича 1",
+            "Фича 2",
+            "Фича 3"
+        ],
+        "version": "1.8.9 – 1.21"
     }
 ]
