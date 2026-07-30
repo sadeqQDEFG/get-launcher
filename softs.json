@@ -68,17 +68,4 @@
         ],
         "version": "1.16.5"
     },
-    {
-        "title": "Get Launcher",
-        "size": "?? MB",
-        "url": "https://drive.google.com/uc?export=download&id=1fzwcfjABunAFS9IMql8VvNgKKFPQBlH2",
-        "icon": "🚀",
-        "desc": "Мой лаунчер для Minecraft с читами. Скачай и играй.",
-        "features": [
-            "Запуск любой версии",
-            "Встроенные читы",
-            "Простота"
-        ],
-        "version": "1.0.0"
-    }
-]
+  
